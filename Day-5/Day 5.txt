@@ -1,0 +1,8 @@
+Read about Hypotheis Testing, Type-I error, Type-II error, Z-Test, T-Test, Chi-Square Test, Anova Test
+Resources to be followed:
+Youtube channel:
+Data Science with Sharan
+Krish Naik
+StatQuest with Josh Stammer
+
+Also can read from various resources available on the internet to clear all the concepts.
