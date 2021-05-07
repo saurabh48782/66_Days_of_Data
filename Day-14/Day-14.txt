@@ -1,0 +1,11 @@
+1. Difference between Scaling, Standardization and Normalization
+2. Differnt types of Scaling techniques
+3. Removing skewness from data
+4. Data Leakage issue
+
+Resources:
+
+1. https://medium.com/@sjacks/feature-transformation-21282d1a3215
+2. https://machinelearningmastery.com/data-leakage-machine-learning/
+3. https://beingdatum.com/handling-skewness-in-machine-learning/
+4. Krish Naik YouTube channel
