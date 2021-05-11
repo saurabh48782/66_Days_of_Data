@@ -1,0 +1,9 @@
+Topics studied:
+1. Multicollinearity
+2. VIF (Variable Inflation Factor) = 1/(1-R2)
+
+where R2 = coefficient of determination
+If VIF>5, high multicollinearity, we drop one of the features.
+
+Reference:
+https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/
