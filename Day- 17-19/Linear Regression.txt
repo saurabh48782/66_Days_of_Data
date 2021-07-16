@@ -1,0 +1,32 @@
+Resources:
+1. When to use Regression | Linear Regression Analysis | https://www.youtube.com/watch?v=rz6d5lAQhXg
+
+2. Linear Regression | Indepth Math Intution | https://www.youtube.com/watch?v=1-OGRohmH2s
+
+3. Assumptions of Linear Regression |  https://www.youtube.com/watch?v=ZJUd5n1jo9I&t=2s
+
+4. Codebasics playlist | https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+
+**Watch videos from 2 to 7 in the playlist
+
+5. Interview questions related to Linear Regression | https://www.youtube.com/watch?v=eh-muwX6qbQ&t=826s
+
+6. Solve case studies related to regression problems
+
+(i) Power Plant Energy Prediction Challenge on Dockship platform: 
+
+https://dockship.io/challenges/5fa1f40ac2a4984b34ef0a66/power-plant-energy-prediction-ai-challenge/overview 
+
+(ii) Stock Price Prediction using Linear Regression Challenge on Widhya.org
+https://widhya.org/mission/C5V1fstqZUhrYAbPuClt
+
+** For  additional case studies refer-
+https://github.com/saurabh48782/Learning_Machine_Learning/tree/main/Linear%20Regression
+- Simple linear regression-
+Hardwork Pays Off case study (implementing Linear Regression from scratch without using sklearn library)
+
+- Multiple Linear Regression
+Air Quality Price Prediction
+
+
+** For more additional understanding blogs can be referred.
